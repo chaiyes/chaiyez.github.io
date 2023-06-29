@@ -1,0 +1,10 @@
+/* Chai ForOne Fonts */
+@font-face {                 
+  font-family: 'Foxyz';    
+  src: url(../fonts/foxyz.woff) format("woff");             
+  font-style: normal;                 
+  }
+    
+.chai {
+font-family: Foxyz;
+}

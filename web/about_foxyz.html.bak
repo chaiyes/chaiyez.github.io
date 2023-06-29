@@ -1,0 +1,603 @@
+
+<!doctype html>
+<html lang="en">
+<!--
+作者：蔡光贤(Daway.Cai)
+邮件：caixnet@outlook.com
+链接：https://caixnet.github.io
+来源：github
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+-->
+<head>
+<title>About chai & leibniz code</title>
+<!-- Required meta tags -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <link rel="shortcut icon" href="images/caiXnet.png" />
+	<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" /> 
+	<!-- chai font CSS -->
+    <link rel="stylesheet" href="css/chai.css" />
+	<script src="js/jquery.js"> </script>
+
+</head>
+
+<body>
+
+<!-- begin Chai nav -->
+<div class="container">
+	
+
+<!-- begin chai index -->
+	<div>
+		<ul id="chaiMainNav" class="nav flex-column">
+			<li class="nav-item list-group-item-success">
+			<a class="nav-link " href="#at_about_foxyz_keyboard">about Foxyz Keyboard</a>
+			</li>
+			<li class="nav-item list-group-item-primary">
+			<a class="nav-link " href="#at_setup_foxyz_keyboard">Setup Foxyz keyboard</a>
+			</li>
+			<li class="nav-item list-group-item-warning">
+			<a class="nav-link " href="#at_tochange_foxyzpod">to change foxyz keyboard</a>
+			</li>
+			<li class="nav-item list-group-item-danger">
+			<a class="nav-link" href="#at_alphabet_number">Input alphabet and number</a>
+			</li>
+			<li class="nav-item list-group-item-info">
+			<a class="nav-link" href="#at_mark_control">Input mark and control key</a>
+			</li>
+			<li class="nav-item list-group-item-light">
+			<a class="nav-link" href="#at_change_input_pod">Change Input method or Pod style</a>
+			</li>
+
+			<li class="nav-item list-group-item-success">
+			<a class="nav-link" href="#at_korea_taiji">flag of South Korea and Taiji trigram</a>
+			</li>
+			<li class="nav-item list-group-item-primary">
+			<a class="nav-link" href="#at_yinyang_dotline">YinYang and DotLine symbol</a>
+			</li>
+			<li class="nav-item list-group-item-warning">
+			<a class="nav-link" href="#at_hexagram_leibniz">hexagram and Leibniz symbol code</a>
+			</li>
+			<li class="nav-item list-group-item-danger">
+			<a class="nav-link" href="#at_patent">about patent</a>
+			</li>
+			<li class="nav-item list-group-item-info">
+			<a class="nav-link" href="#at_trigram_chaicode">Trigram and Chai code table</a>
+			</li>
+			<li class="nav-item list-group-item-light">
+			<a class="nav-link" href="#at_hexagram_leibniz_table">Hexagram and Leibniz symbol code table</a>
+			</li>
+			<li class="nav-item list-group-item-success">
+			<a class="nav-link" href="#at_braille_leibniz">Braille and Leibniz Symbol code table</a>
+			</li> 
+			<li class="nav-item list-group-item-primary">
+			<a class="nav-link" href="#at_corean_korean">Corean and Korean table</a>
+			</li>
+			<li class="nav-item list-group-item-warning">
+			<a class="nav-link" href="#at_corean_alphabet"> Corean and Alphabet table</a>
+			</li>
+			<li class="nav-item list-group-item-danger">
+			<a class="nav-link" href="#at_corean_japanese"> Corean and Japanese table</a>
+			</li>
+			<li class="nav-item list-group-item-info">
+			<a class="nav-link" href="#at_corean_chinese"> Corean and Zhuyin Chinese table</a>
+			</li>
+			
+		</ul>
+	</div>
+
+<!-- end chai index -->
+</div>
+<!-- end Chai nav -->
+
+<!-- about foxyz keyboard  start -->
+<a herf="#chaiMainNav">
+<div><a href="#chaiMainNav"><h3 class="nav-item list-group-item-success">about Foxyz Keyboard</h3></a></div>
+</a>
+<div id="at_about_foxyz_keyboard" class="center">
+<img class="center" src="images/aboutFoxyz.jpg" width="98%" border="0" alt="">
+</div>
+
+<!-- about foxyz keyboard  end -->
+
+<!-- foxyz setup  start -->
+<div><a href="#chaiMainNav"><h3 class="nav-item list-group-item-primary">Setup foxyz keyboard</h3></a></div>
+<div id="at_setup_foxyz_keyboard" class="center">
+<img class="center" src="images/foxyzpod_00.jpg" width="98%" border="0" alt="">
+
+</div>
+<!-- foxyz setup  end -->
+
+
+<!-- foxyz learn  start -->
+<div><a href="#chaiMainNav"><h3 class="nav-item list-group-item-warning">to change foxyz keyboard</h3></a></div>
+<div id="at_tochange_foxyzpod" class="center">
+<img class="center" src="images/foxyzpod_01.jpg" width="98%" border="0" alt="">
+</div>
+<!-- foxyz learn  end -->
+
+<!-- foxyz learn  start -->
+<div><a href="#chaiMainNav"><h3 class="nav-item list-group-item-danger">Input Alphabet and number</h3></a></div>
+<div id="at_alphabet_number" class="center">
+<img class="center" src="images/foxyzpod_02.jpg" width="98%" border="0" alt="">
+</div>
+<!-- foxyz learn  end -->
+
+<!-- foxyz learn  start -->
+<div><a href="#chaiMainNav"><h3 class="nav-item list-group-item-info">Input mark and control key</h3></a></div>
+<div id="at_mark_control" class="center">
+<img class="center" src="images/foxyzpod_03.jpg" width="98%" border="0" alt="">
+</div>
+<!-- foxyz learn  end -->
+
+<!-- foxyz learn  start -->
+<div><a href="#chaiMainNav"><h3 class="nav-item list-group-item-danger">Change Input method or Pod style </h3></a></div>
+<div id="at_change_input_pod" class="center">
+<img class="center" src="images/foxyzpod_05.jpg" width="98%" border="0" alt="">
+</div>
+<!-- foxyz learn  end -->
+
+
+<!-- Chai korean_flag  start -->
+<div id="at_korea_taiji"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-success">flag of South Korea and Taiji trigram</h3></a></div>
+<div><h4>
+&#9775;symbol's Unicode is U+262F. that name Yinyang or Taiji from book of I Ching. 
+ It have 8 symbols that are include &#9776; for heaven symbol, &#9777; for lake symbol, &#9778; for fire symbol, &#9779; for thunder symbol,  &#9780; for wind symbol,  &#9781; for water symbol,  &#9782; for thunder mountain and &#9783; for earth symbol. <br>
+ Yin and Yang have profound influence on oriental culture. Even the Taegeuk motif is used in the South Korean flag.
+</h4></div>
+<div id="at_taichitu">
+<img class="center" src="images/taichi.jpg" width="98%" border="0" alt="">
+
+</div>
+
+<!-- Chai korean_flag  end -->
+
+
+
+<!-- Chai Trigram code start -->
+<div id="at_yinyang_dotline"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-primary">YinYang and DotLine symbol</h3></a></div>
+<div id="at_trigram">
+<h4>
+Leibniz may have been the first computer scientist and information theorist. 
+He noted how the I Ching hexagrams correspond to the binary numbers from 000000 to 111111.
+Leibniz interpreted a diagram which showed yin and yang and corresponded it to a zero and one.
+each of the eight figures formed of three paralle lines, each either whole or broken, combined to form the sixty-four hexagrams of the I Ching.<br>
+In geometry, the two points of a triangle are yin, and the line connecting the two points is yang. A set of symbol systems can be obtained through a set of encoding rules.<br>
+I think this symbol systems is Leibniz envisioned a universal language or script.
+So The symbology generated by this method is named Leibniz symbol code or Leibniz script.
+</h4>
+
+<img class="center" src="images/code-trigram.jpg" width="98%" border="0" alt="">
+
+</div>
+
+<!-- Chai Trigram code end -->
+
+<!-- Chai code  start -->
+<div id="at_hexagram_leibniz"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-warning">hexagram and Leibniz symbol code </h3></a></div>
+<div id="at_taichi">
+<h4>
+A figure formed of six straight lines, in particular: any of a set of sixty-four figures made up of six parallel whole or broken lines, occurring in the ancient Chinese I Ching. <br>
+In geometry, the two points of a quadrilateral are yin, and the line connecting the two points is yang. a set of symbol systems can be obtained through a set of encoding rules. <br>
+quadrilateral have four side line and two diagonal. 
+Use the four points of the quadrilateral and the relationship between the four points to get a set of hexagram symbology.
+</h4>
+<img class="center" src="images/code-hexagram.jpg" width="98%" border="0" alt="">
+
+</div>
+
+<!-- Chai code  end -->
+
+<!-- Chai Patent start -->
+<div id="at_patent">
+  
+  <a href="https://patentimages.storage.googleapis.com/df/70/1a/93c7f296365cb2/CN109101218B.pdf"> 
+    <h3 class="nav-item list-group-item-primary"> patent: CN109101218B</h3>
+  </a>
+  
+  <img class="center" src="images/pct_cn109101218b.JPG" width="98%" border="0" alt="">
+  <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=CN178119436&_fid=WO2016082081"> 
+    <h3 class="nav-item list-group-item-primary"> patent: WO2016082081</h3> 
+  </a>
+</div>
+
+<!-- Chai Patent end -->
+
+<!-- Chai badge start -->
+<div class="container">
+	<h2>
+		<span class="badge badge-active text-info">
+		Chai <img src="images/caiXnet.png" width="22" height="22" class="d-inline-block align-top" alt="caiXnet">
+		<span class="badge badge-active text-info" style="font-size:.2em;"> 2023 © Daway.Caiguangxian.</span>
+		</span>
+	</h2>
+</div>
+<!-- Chai badge end -->
+
+<!-- Chai Trigram Table start -->
+<div id="at_trigram_chaicode"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-danger">Trigram and Chai code table</h3></a></div>
+<div id="chai_trigram_table" class="center chai  text-center" style="font-size:2rem;"  > </div>
+<script type="text/javascript">
+<!--
+var $unicode_sino = 9776;
+var $unicode_chai = 57379;
+var $table = $('<table class="table table-bordered table-striped"/>');
+var $tablebody = "";
+for(var i=0; i<1; i++){
+	
+$tablebody +=  '<tr>';
+	//$tablebody +=  '<td>chaicode</td>' ;
+	for(var j=0; j<8; j++) {
+		$unicode_chai = 57379 + i*8 + j;
+		$tablebody +=  '<td>&#' + $unicode_chai + ';</td>' ;
+	}
+	$tablebody += '</tr>' ;
+
+	$tablebody +=  '<tr>';
+	//$tablebody +=  '<td>sinocode</td>' ;
+	for(var j=0; j<8; j++) {
+		$unicode_sino = 9776 + i*8 + j;
+		$tablebody +=  '<td>&#' + $unicode_sino + ';</td>' ;
+	}
+	$tablebody += '</tr>' ;
+
+
+}
+$table.append($tablebody);
+$('#chai_trigram_table').append($table);	
+
+</script>
+
+
+<!-- Chai Trigram Table end -->
+
+<!-- Chai Hexagram Table start -->
+<div id="at_hexagram_leibniz_table"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-info">Hexagram and Leibniz symbol code table</h3></a></div>
+<div id="chaisinocode_table" class="center chai  text-center" style="font-size:2rem;"  > </div>
+<script type="text/javascript">
+<!--
+var $unicode_sino = 19904;
+var $unicode_chai = 10432;
+var $table = $('<table class="table table-bordered table-striped"/>');
+var $tablebody = "";
+for(var i=0; i<8; i++){
+	
+	$tablebody +=  '<tr>';
+	for(var j=0; j<8; j++) {
+		$unicode_chai = 10432 + i*8 + j;
+		$tablebody +=  '<td>&#' + $unicode_chai + ';</td>' ;
+	}
+	$tablebody += '</tr>' ;
+
+	$tablebody +=  '<tr>';
+	for(var j=0; j<8; j++) {
+		$unicode_sino = 19904 + i*8 + j;
+		$tablebody +=  '<td>&#' + $unicode_sino + ';</td>' ;
+	}
+	$tablebody += '</tr>' ;
+
+	
+    
+}
+$table.append($tablebody);
+$('#chaisinocode_table').append($table);	
+
+</script>
+
+<!-- Chai Hexagram Table end -->
+
+
+<!-- Chai braille Table start -->
+<div id="at_braille_leibniz"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-danger">Braille and Leibniz Symbol code table</h3></a></div>
+<div id="chai_braille_table" class="center chai  text-center" style="font-size:2rem;"  > </div>
+<script type="text/javascript">
+<!--
+var $unicode_sino = 10240;
+var $unicode_chai = 10368;
+var $table = $('<table class="table table-bordered table-striped"/>');
+var $tablebody = "";
+for(var i=0; i<8; i++){
+	$tablebody +=  '<tr>';
+	for(var j=0; j<8; j++) {
+		$unicode_chai = 10368 + i*8 + j;
+		$tablebody +=  '<td>&#' + $unicode_chai + ';</td>' ;
+	}
+	$tablebody += '</tr>' ;
+    
+
+	$tablebody +=  '<tr>';
+	for(var j=0; j<8; j++) {
+		$unicode_sino = 10240 + i*8 + j;
+		$tablebody +=  '<td>&#' + $unicode_sino + ';</td>' ;
+	}
+	$tablebody += '</tr>' ;
+
+	
+}
+$table.append($tablebody);
+$('#chai_braille_table').append($table);	
+
+</script>
+
+<!-- Chai braille Table end -->
+
+
+
+
+
+<!-- Chai Korean Table start -->
+<div id="at_corean_korean"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-success">Corean and Korean table</h3></a></div>
+<div id="chai_corean_table" class="center chai  text-center" style="font-size:2rem;"  > </div>
+<script type="text/javascript">
+<!--
+var $unicode_sino = 57600;
+var $unicode_chai = 57441;
+var $table = $('<table class="table table-bordered table-striped"/>');
+var $tablebody = "";
+for(var i=0; i<4; i++){
+
+	$tablebody +=  '<tr>';
+	for(var j=0; j<7; j++) {
+		$unicode_chai = 57441 + i*7 + j;
+		if ($unicode_chai <= 57466)
+		{
+			$tablebody +=  '<td>&#' + $unicode_chai + ';</td>' ;
+		} else if ($unicode_chai == 57467) {
+			$tablebody +=  '<td>&#' + 57572 + ';</td>' ;
+		} else if ($unicode_chai == 57468) {
+			$tablebody +=  '<td>&#' + 57579 + ';</td>' ;
+		} else {
+			;
+		}
+		
+	}
+	$tablebody += '</tr>' ;
+
+	$tablebody +=  '<tr>';
+	for(var j=0; j<7; j++) {
+		$unicode_sino = 57600 + i*7 + j;
+		$tablebody +=  '<td>&#' + $unicode_sino + ';</td>' ;
+	}
+	$tablebody += '</tr>' ;
+
+	
+    
+}
+$table.append($tablebody);
+$('#chai_corean_table').append($table);	
+
+</script>
+
+<!-- Chai Korean Table end -->
+
+
+<!-- Chai English Table start -->
+<div id="at_corean_alphabet"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-primary"> Corean and Alphabet table</h3></a></div>
+<div id="chai_english_table" class="center chai  text-center" style="font-size:2rem;"  > </div>
+<script type="text/javascript">
+<!--
+var $unicode_sino = 97;
+var $unicode_chai = 57441;
+var $table = $('<table class="table table-bordered table-striped"/>');
+var $tablebody = "";
+for(var i=0; i<4; i++){
+
+	$tablebody +=  '<tr>';
+	for(var j=0; j<7; j++) {
+		$unicode_chai = 57441 + i*7 + j;
+		if ($unicode_chai <= 57466)
+		{
+			$tablebody +=  '<td>&#' + $unicode_chai + ';</td>' ;
+		} else if ($unicode_chai == 57467) {
+			$tablebody +=  '<td>&#' + 57572 + ';</td>' ;
+		} else if ($unicode_chai == 57468) {
+			$tablebody +=  '<td>&#' + 57579 + ';</td>' ;
+		} else {
+			;
+		}
+		
+	}
+	$tablebody += '</tr>' ;
+
+	$tablebody +=  '<tr>';
+	for(var j=0; j<7; j++) {
+		$unicode_sino = 97 + i*7 + j;
+		//$tablebody +=  '<td>&#' + $unicode_sino + ';</td>' ;
+
+		if ($unicode_sino <= 122)
+		{
+			$tablebody +=  '<td>&#' + $unicode_sino + ';</td>' ;
+		} else if ($unicode_sino == 123) {
+			$tablebody +=  '<td>&#' + 228 + ';</td>' ;
+		} else if ($unicode_sino == 124) {
+			$tablebody +=  '<td>&#' + 235 + ';</td>' ;
+		} else {
+			;
+		}
+
+	}
+	$tablebody += '</tr>' ;
+
+	
+    
+}
+$table.append($tablebody);
+$('#chai_english_table').append($table);	
+
+</script>
+
+
+
+<!-- Chai Japanese Table start -->
+<div id="at_corean_japanese"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-warning"> Corean and Japanese table</h3></a></div>
+<div id="chai_english_table" class="center chai  text-center" style="font-size:2rem;"  > 
+<table class="chai table table-bordered table-striped"/>
+<tr style="font-size:2rem;"><td>&#57441;</td><td>&#57449;</td><td>&#57461;</td><td>&#57579;</td><td>&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>あ ア</td><td>い イ</td><td>う ウ</td><td>え エ</td><td>お オ</td></tr>
+<tr style="font-size:2rem;"><td>&#57451;&#57441;</td><td>&#57451;&#57449;</td><td>&#57451;&#57461;</td><td>&#57451;&#57579;</td><td>&#57451;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>か カ</td><td>き キ</td><td>く ク</td><td>け ケ</td><td>こ コ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57459;&#57441;</td><td>&#57459;&#57449;</td><td>&#57459;&#57461;</td><td>&#57459;&#57579;</td><td>&#57459;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>さ サ</td><td>し シ</td><td>す ス</td><td>せ セ</td><td>そ ソ</td></tr>
+<tr style="font-size:2rem;"><td>&#57460;&#57441;</td><td>&#57460;&#57449;</td><td>&#57460;&#57461;</td><td>&#57460;&#57579;</td><td>&#57460;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>た タ</td><td>ち チ</td><td>つ ツ</td><td>て テ</td><td>と ト</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57454;&#57441;</td><td>&#57454;&#57449;</td><td>&#57454;&#57461;</td><td>&#57454;&#57579;</td><td>&#57454;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>な ナ</td><td>に ニ</td><td>ぬ ヌ</td><td>ね ネ</td><td>の ノ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57448;&#57441;</td><td>&#57448;&#57449;</td><td>&#57448;&#57461;</td><td>&#57448;&#57579;</td><td>&#57448;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>は ハ</td><td>ひ ヒ</td><td>ふ フ</td><td>へ ヘ</td><td>ほ ホ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57453;&#57441;</td><td>&#57453;&#57449;</td><td>&#57453;&#57461;</td><td>&#57453;&#57579;</td><td>&#57453;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>ま マ</td><td>み ミ</td><td>む ム</td><td>め メ</td><td>も モ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57458;&#57441;</td><td>&#57458;&#57449;</td><td>&#57458;&#57461;</td><td>&#57458;&#57579;</td><td>&#57458;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>ら ラ</td><td>り リ</td><td>る ル</td><td>れ レ</td><td>ろ ロ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57465;&#57441;</td><td></td><td>&#57465;&#57461;</td><td></td><td>&#57465;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>や ヤ</td><td></td><td>ゆ ユ</td><td></td><td>よ ヨ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57455;&#57441;</td><td></td><td>&#57452;</td><td></td><td>&#57455;&#57461;</td></tr>
+<tr style="font-size:1.4rem;"><td>わ ワ</td><td></td><td>ん ン</td><td></td><td>を ヲ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57447;&#57441;</td><td>&#57447;&#57449;</td><td>&#57447;&#57461;</td><td>&#57447;&#57579;</td><td>&#57447;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>が ガ</td><td>ぎ ギ</td><td>ぐ グ</td><td>げ ゲ</td><td>ご ゴ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57466;&#57441;</td><td>&#57466;&#57449;</td><td>&#57466;&#57461;</td><td>&#57466;&#57579;</td><td>&#57466;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>ざ ザ</td><td>じ ジ</td><td>ず デ</td><td>ぜ ゼ</td><td>ぞ ゾ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57444;&#57441;</td><td>&#57444;&#57449;</td><td>&#57444;&#57461;</td><td>&#57444;&#57579;</td><td>&#57444;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>だ ダ</td><td>ぢ ヂ</td><td>づ ヅ</td><td>で デ </td><td>ど ド</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57462;&#57441;</td><td>&#57462;&#57449;</td><td>&#57462;&#57461;</td><td>&#57462;&#57579;</td><td>&#57462;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>ば バ</td><td>び ビ</td><td>ぶ ブ</td><td>べ ベ  </td><td>ぼ  ボ</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57456;&#57441;</td><td>&#57456;&#57449;</td><td>&#57456;&#57461;</td><td>&#57456;&#57579;</td><td>&#57456;&#57455;</td></tr>
+<tr style="font-size:1.4rem;"><td>ぱ パ</td><td>ぴ ピ</td><td>ぷ プ</td><td>ぺ ペ</td><td>ぽ ポ</td></tr>
+
+
+</table>
+</div>
+<!-- Chai Japanese Table end -->
+
+<!-- Chai unicode Table start  --
+<h3 class="nav-item list-group-item-warning"> Corean & Alphabet</h3>
+<div id="chai_english_table1" class="center chai  text-center" style="font-size:2rem;"  > </div>
+<script type="text/javascript">
+<!--
+var $unicode_sino = 97;
+var $unicode_chai = 57441;
+var $table = $('<table class="table table-bordered table-striped"/>');
+var $tablebody = "";
+for(var i=0; i<4; i++){
+
+	$tablebody +=  '<tr>';
+	for(var j=0; j<7; j++) {
+		$unicode_chai = 57441 + i*7 + j;
+		if ($unicode_chai <= 57466)
+		{
+			$tablebody +=  '<td>&#' + $unicode_chai + ';</td>' ;
+		} else if ($unicode_chai == 57467) {
+			$tablebody +=  '<td>&#' + 57572 + ';</td>' ;
+		} else if ($unicode_chai == 57468) {
+			$tablebody +=  '<td>&#' + 57579 + ';</td>' ;
+		} else {
+			;
+		}
+		
+	}
+	$tablebody += '</tr>' ;
+
+	$tablebody +=  '<tr>';
+	for(var j=0; j<7; j++) {
+		$unicode_chai = 57441 + i*7 + j;
+		if ($unicode_chai <= 57466)
+		{
+			$tablebody +=  '<td>' + $unicode_chai + '</td>' ;
+		} else if ($unicode_chai == 57467) {
+			$tablebody +=  '<td>' + 57572 + '</td>' ;
+		} else if ($unicode_chai == 57468) {
+			$tablebody +=  '<td>' + 57579 + '</td>' ;
+		} else {
+			;
+		}
+
+	}
+	$tablebody += '</tr>' ;
+
+	
+    
+}
+$table.append($tablebody);
+$('#chai_english_table1').append($table);	
+
+</script>
+
+-- Chai unicode Table end -->
+
+<!-- Chai Chinese Table begin -->
+<div id="at_corean_chinese"><a href="#chaiMainNav"><h3 class="nav-item list-group-item-danger"> Corean and Zhuyin Chinese table</h3></a></div>
+<div id="chai_english_table" class="center chai  text-center" style="font-size:2rem;"  > 
+<table class="chai table table-bordered table-striped"/>
+<tr style="font-size:2rem;"><td>&#57442;&#57445;</td><td>&#57456;&#57445;</td><td>&#57453;&#57445;</td><td>&#57446;&#57445;</td><td>&#57444;&#57445;</td><td>&#57460;&#57445;</td><td>&#57454;&#57445;</td></tr>
+<tr style="font-size:1.4rem;"><td>ㄅ玻</td><td>ㄆ破</td><td>ㄇ摸</td><td>ㄈ佛</td><td>ㄉ得</td><td>ㄊ特</td><td>ㄋ讷</td></tr>
+<tr style="font-size:2rem;"><td>&#57458;&#57445;</td><td>&#57447;&#57445;</td><td>&#57451;&#57445;</td><td>&#57448;&#57445;</td><td>&#57450;&#57449;</td><td>&#57443;&#57449;</td><td>&#57464;&#57449;</td></tr>
+<tr style="font-size:1.4rem;"><td>ㄌ勒</td><td>ㄍ哥</td><td>ㄎ科</td><td>ㄏ喝</td><td>ㄐ基</td><td>ㄑ起</td><td>ㄒ希</td></tr>
+<tr style="font-size:2rem;"><td>&#57466;&#57465;</td><td>&#57443;&#57465;</td><td>&#57459;&#57465;</td><td>&#57458;&#57465;</td><td>&#57450;&#57465;</td><td>&#57443;&#57465;</td><td>&#57464;&#57465;</td></tr>
+<tr style="font-size:1.4rem;"><td>ㄓ知</td><td>ㄔ吃</td><td>ㄕ诗</td><td>ㄖ日</td><td>ㄗ资</td><td>ㄘ雌</td><td>ㄙ思</td></tr>
+
+<tr style="font-size:2rem;"><td>&#57449;</td><td>&#57461;</td><td>&#57449;&#57461;</td><td>&#57441;</td><td>&#57455;</td><td>&#57445;</td><td>&#57579;</td></tr>
+<tr style="font-size:1.4rem;"><td>ㄧ衣</td><td>ㄨ乌</td><td>ㄩ迂</td><td>ㄚ阿</td><td>ㄛ喔</td><td>ㄜ鹅</td><td>ㄝ欸</td></tr>
+<tr style="font-size:2rem;"><td>&#57441;&#57449;</td><td>&#57579;&#57449;</td><td>&#57455;&#57461;</td><td>&#57445;&#57461;</td><td>&#57441;&#57454;</td><td>&#57445;&#57454;</td><td>&#57441;&#57452;</td></tr>
+<tr style="font-size:1.4rem;"><td>ㄞ哀</td><td>ㄟ欸</td><td>ㄠ熬</td><td>ㄡ欧</td><td>ㄢ安</td><td>ㄣ嗯</td><td>ㄤ昂</td></tr>
+<tr style="font-size:2rem;"><td>&#57445;&#57452;</td><td>&#57445;&#57458;</td><td>&#57465;&#57441;</td><td>&#57465;&#57579;</td><td>&#57465;&#57455;</td><td>&#57465;&#57445;</td><td>&#57465;&#57572;</td></tr>
+<tr style="font-size:1.4rem;"><td>ㄥ哼</td><td>ㄦ</td><td>ㄧㄚ</td><td>ㄧㄝ</td><td>ㄧㄠ</td><td>ㄧㄡ</td><td>ㄧㄢ</td></tr> 
+<tr style="font-size:2rem;"><td>&#57449;&#57454;</td><td>&#57465;&#57441;&#57452;</td><td>&#57449;&#57452;</td><td>&#57455;&#57441;&#57449;</td><td>&#57461;&#57445;</td><td>&#57455;&#57441;&#57449;</td><td>&#57461;&#57579;&#57449;</td></tr>
+<tr style="font-size:1.4rem;"><td>ㄧㄣ</td><td>ㄧㄤ</td><td>ㄧㄥ</td><td>ㄨㄚ</td><td>ㄨㄛ</td><td>ㄨㄞ</td><td>ㄨㄟ</td></tr> 
+<tr style="font-size:2rem;"><td>&#57455;&#57441;&#57454;</td><td>&#57461;&#57445;&#57454;</td><td>&#57455;&#57441;&#57452;</td><td>&#57461;&#57445;&#57452;</td><td>&#57461;&#57579;</td><td>&#57449;&#57461;&#57454;</td><td>&#57465;&#57461;&#57452;</td></tr>
+<tr style="font-size:1.4rem;"><td>ㄨㄢ</td><td>ㄨㄣ</td><td>ㄨㄤ</td><td>ㄨㄥ</td><td>ㄩㄝ</td><td>ㄩㄣ</td><td>ㄩㄥ</td></tr> 
+</table>
+</div>
+<!-- Chai Chinese Table end -->
+
+<!--
+伏羲键盘仅用四个键可完成全键盘的输入功能，原因是使用了来普尼茨普世符号代码，这些符号的其本质是易经的卦象。
+Fuxi keyboard only uses four keys to complete the input function of the full keyboard
+使用了一套特殊符号，这些符号的本质是易经的卦象
+A set of special symbols are used, the essence of these symbols is the hexagrams of the Book of Changes
+
+In 1789 Gottfried Leibniz published a paper announcing his invention of the binary code. Twenty-four year later, after a Jesuit in Beijing sent him illustrations of the Chinese trigram and hexagrams, Leibniz published a second paper crediting the Chinese with inventing the first binary code.
+Two points determine a straight line
+hexagram is a four-pointed geometric rect firugre with the cross diagonal
+four-sided figures 
+Quadrilateral have six lines include four-sided and two crossed diagonal lines.
+leibniz symbol code 
+quadrilateral technical a flat shape with four straight sides 
+One-dimensional 
+two dimensional
+Generating Symbols Using Quadrilateral Geometric Properties
+Two point link line segment
+伏羲符号编码系统是伏羲利用二进制和四边形几何特性生成64卦二进制符号系统。四边形的几何特征四个边和两个对角线的链接与否生成一套64卦符号系统。
+Fuxi's symbol encoding system is a 64 hexagram binary symbol system generated by Fuxi using binary and quadrilateral geometric properties. 
+The geometric characteristics of a quadrilateral are whether the four sides and the two diagonals are connected or not to generate a set of 64 hexagram symbol systems.
+In geometry a quadrilateral is a four-sided polygon, having four edges (sides) and four corners (vertices).
+-->
+
+
+<div class="container">
+	<!-- begin chai is a Gesture langauge -->
+	<div class="text-center">
+	<b>
+	<span class="badge badge-active text-info ">Chai
+	<img src="images/caiXnet.png" width="10" height="12" class="d-inline-block align-top" alt="caiXnet"> a Leibniz language project @author:Caiguangxian</span>
+	</b>
+	</div>
+<!-- end chai is a Gesture langauge -->
+</div>
+
+
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>

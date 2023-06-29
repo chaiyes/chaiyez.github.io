@@ -1,0 +1,10 @@
+/* Chai ForOne Fonts */
+@font-face {                 
+  font-family: 'Leibniz';    
+  src: url(../fonts/leibniz.woff) format("woff");             
+  font-style: normal;                 
+  }
+    
+.chai {
+font-family: Leibniz;
+}
